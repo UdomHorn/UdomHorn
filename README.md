@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=150&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Udom+%F0%9F%91%8B;" />
 
 <br/>
 
@@ -15,10 +13,8 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRscXE0dG8yZzduYTVyamc1czNubnc2cWE0cXYycHlucm9zZDNsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/200.webp" width="400"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRscXE0dG8yZzduYTVyamc1czNubnc2cWE0cXYycHlucm9zZDNsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/200.webp" width="400"/>
 
 
 </div>
