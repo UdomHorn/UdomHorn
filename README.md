@@ -1,7 +1,8 @@
 <div align="center">
 
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Udom+%F0%9F%91%8B;" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRscXE0dG8yZzduYTVyamc1czNubnc2cWE0cXYycHlucm9zZDNsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/200.webp" width="400"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=My%2C+Tech Stack+%F0%9F%91%8B;" />
 <br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,9 +13,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <br/>
-
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRscXE0dG8yZzduYTVyamc1czNubnc2cWE0cXYycHlucm9zZDNsbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/200.webp" width="400"/>
-
 
 </div>
